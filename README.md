@@ -10,3 +10,4 @@ dart:io
 url_launcher
 googlefonts
 
+versions are available in pubspec.yaml
