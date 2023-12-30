@@ -449,6 +449,9 @@ class _BdayState extends State<Bday> {
         " say. Chinna chinna vishayalaku yedvadam apay. you actually deserve a"
         " prize and a slap for being the most annoying ❤"];
 
+  // I have collected these from my friends , you change them with yours 
+
+
   String _selectedString  = "";
 
   @override
