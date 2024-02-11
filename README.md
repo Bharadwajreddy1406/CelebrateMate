@@ -1,13 +1,13 @@
 # Birthday_wishing_App_flutter
-A simple Birthday wishing app with flutter for my friend who is an enthusiast in space
+A simple Birthday wishing app with flutter for my friend who is enthusiastic in space related facts
 
-An interactive layout with background images as carousel 
+An interactive layout with background images as a carousel 
 
 Used flutter 
-glassmorphism 
+glass morphism 
 htttp
-dart:io
+dart: io
 url_launcher
-googlefonts
+google fonts
 
 versions are available in pubspec.yaml
