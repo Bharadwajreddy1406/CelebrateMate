@@ -57,17 +57,12 @@ A special app created as a birthday gift for my friend. Celebratemate includes a
     cd middleware
     ```
 
-2. **Install Flask and other dependencies:**
-
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 3. **Run the Flask server:**
 
     ```sh
-    flask run
+    python app.py
     ```
+    update the ports in the flutter code
 
 ## Usage
 
