@@ -75,7 +75,7 @@ A special app created as a birthday gift for my friend. Celebratemate includes a
 
 <p align="center">
   <img src="Screenshots/Screenshot_2023-12-01-11-10-12-398_com.example.untitled.jpg" alt="Screenshot 1" width="300"/>
-  <img src="Screenshots/Screenshot_2023-12-01-11-11-09-225_com.example.untitled.jpg" alt="Screenshot 2" width="300"/>
+  <img src="Screenshots/WhatsApp Image 2024-07-09 at 10.57.02_2fb9852d.jpg" alt="Screenshot 2" width="300"/>
   <img src="Screenshots/Screenshot_2023-12-01-11-11-21-666_com.example.untitled.jpg" alt="Screenshot 3" width="300"/>
   <img src="Screenshots/Screenshot_2023-12-01-11-11-31-337_com.example.untitled.jpg" alt="Screenshot 4" width="300"/>
 </p>
