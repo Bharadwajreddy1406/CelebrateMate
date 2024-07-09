@@ -81,10 +81,10 @@ A special app created as a birthday gift for my friend. Celebratemate includes a
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot_2023-12-01-11-10-12-398_com.example.untitled.jpg)
-![Screenshot 2](screenshots/Screenshot_2023-12-01-11-11-09-225_com.example.untitled.jpg)
-![Screenshot 3](screenshots/Screenshot_2023-12-01-11-11-21-666_com.example.untitled.jpg)
-![Screenshot 4](screenshots/Screenshot_2023-12-01-11-11-31-337_com.example.untitled.jpg)
+![Screenshot 1](Screenshots/Screenshot_2023-12-01-11-10-12-398_com.example.untitled.jpg)
+![Screenshot 2](Screenshots/Screenshot_2023-12-01-11-11-09-225_com.example.untitled.jpg)
+![Screenshot 3](Screenshots/Screenshot_2023-12-01-11-11-21-666_com.example.untitled.jpg)
+![Screenshot 4](Screenshots/Screenshot_2023-12-01-11-11-31-337_com.example.untitled.jpg)
 
 ---
 
