@@ -57,12 +57,11 @@ A special app created as a birthday gift for my friend. Celebratemate includes a
     cd middleware
     ```
 
-3. **Run the Flask server:**
+2. **Run the Flask server:**
 
     ```sh
     python app.py
     ```
-    update the ports in the flutter code
 
 ## Usage
 
@@ -74,10 +73,12 @@ A special app created as a birthday gift for my friend. Celebratemate includes a
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/Screenshot_2023-12-01-11-10-12-398_com.example.untitled.jpg)
-![Screenshot 2](Screenshots/Screenshot_2023-12-01-11-11-09-225_com.example.untitled.jpg)
-![Screenshot 3](Screenshots/Screenshot_2023-12-01-11-11-21-666_com.example.untitled.jpg)
-![Screenshot 4](Screenshots/Screenshot_2023-12-01-11-11-31-337_com.example.untitled.jpg)
+<p align="center">
+  <img src="Screenshots/Screenshot_2023-12-01-11-10-12-398_com.example.untitled.jpg" alt="Screenshot 1" width="300"/>
+  <img src="Screenshots/Screenshot_2023-12-01-11-11-09-225_com.example.untitled.jpg" alt="Screenshot 2" width="300"/>
+  <img src="Screenshots/Screenshot_2023-12-01-11-11-21-666_com.example.untitled.jpg" alt="Screenshot 3" width="300"/>
+  <img src="Screenshots/Screenshot_2023-12-01-11-11-31-337_com.example.untitled.jpg" alt="Screenshot 4" width="300"/>
+</p>
 
 ---
 
