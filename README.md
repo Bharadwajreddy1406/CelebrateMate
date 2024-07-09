@@ -81,20 +81,11 @@ A special app created as a birthday gift for my friend. Celebratemate includes a
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png)
-![To-Do List](screenshots/todo.png)
-![Image Gallery](screenshots/gallery.png)
-![NASA Photo](screenshots/nasa_photo.png)
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![Screenshot 1](screenshots/Screenshot_2023-12-01-11-10-12-398_com.example.untitled.jpg)
+![Screenshot 2](screenshots/Screenshot_2023-12-01-11-11-09-225_com.example.untitled.jpg)
+![Screenshot 3](screenshots/Screenshot_2023-12-01-11-11-21-666_com.example.untitled.jpg)
+![Screenshot 4](screenshots/Screenshot_2023-12-01-11-11-31-337_com.example.untitled.jpg)
 
 ---
 
 Happy Birthday to my dear friend!
-
