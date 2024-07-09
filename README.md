@@ -9,7 +9,6 @@ A special app created as a birthday gift for my friend. Celebratemate includes a
 - NASA APIs:
   - Best Space Photo of the Day
   - Recent Comet Events
-- Video Player: Play video content.
 - Glassmorphism UI: Stylish and modern interface.
 
 ## Technologies Used
@@ -26,7 +25,6 @@ A special app created as a birthday gift for my friend. Celebratemate includes a
 - `path_provider`: ^2.1.1 for finding commonly used locations on the filesystem.
 - `flutter_image`: ^4.1.10 for image loading.
 - `google_fonts`: ^6.1.0 for using Google Fonts.
-- `video_player`: ^2.8.1 for playing video content.
 - `flutter_launcher_icons`: ^0.13.1 for customizing app launcher icons.
 - `shared_preferences`: ^2.2.2 for persistent storage.
 
